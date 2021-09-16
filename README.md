@@ -1,4 +1,4 @@
-# terraform-aws-eks
+"# terraform-aws-eks
 
 [![Lint Status](https://github.com/terraform-aws-modules/terraform-aws-eks/workflows/Lint/badge.svg)](https://github.com/terraform-aws-modules/terraform-aws-eks/actions)
 [![LICENSE](https://img.shields.io/github/license/terraform-aws-modules/terraform-aws-eks)](https://github.com/terraform-aws-modules/terraform-aws-eks/blob/master/LICENSE)
@@ -238,3 +238,4 @@ MIT Licensed. See [LICENSE](https://github.com/terraform-aws-modules/terraform-a
 | workers_user_data | User data of worker groups |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+"
